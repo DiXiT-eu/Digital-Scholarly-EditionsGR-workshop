@@ -29,7 +29,7 @@ tagline:
 
 ## ενότητα 11: [TEI - eXist clinic](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session11)
 
-## ενότητα 12: [Keynote](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session12)
+## ενότητα 12: [Keynote: Mats Dahlström (associate professor at the Swedish School of Library and Information Science, the University of Borås), "Light and shadows : digitization, digital facsimiles and scholarly editing" |](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session12) Register <a href="https://www.eventbrite.com/e/light-and-shadows-digitization-digital-facsimiles-and-scholarly-editing-keynote-lecture-mats-tickets-33520161706?aff=eac2">here </a>
 
 ## ενότητα 13: [Putting it all together. How to create a digital TEI edition TEI Publisher in eXist-db](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session13)
 
