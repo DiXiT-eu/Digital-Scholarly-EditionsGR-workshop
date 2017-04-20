@@ -5,43 +5,43 @@ tagline: τι να περιμένετε και τι όχι από το σεμι�
 ---
 
 ## Δομή και πρόγραμμα 
-Πρόκειται για ένα εντατικό πενθήμερο σεμινάριο, με μαθήματα από τις 9πμ έως τις 17μμ ημερησίως.
+Πρόκειται για ένα εντατικό πενθήμερο σεμινάριο, με μαθήματα από τις 9πμ έως τις 17.30 μμ ημερησίως.
 
 ### Δευτέρα 24 Απριλίου 
-##### 1. Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing
+##### (9:00-10:45) 1. Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing 
 
-##### 2. Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML
+##### (11:00-13:00) 2. Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML
 
-##### 3. Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία | Introduction to TEI. Basic structure and core elements
+##### (14:00-15:30) 3. Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία | Introduction to TEI. Basic structure and core elements
 
-##### 4. Οντότητες ονομάτων (πρόσωπα, μέρη, ημερομηνίες) ενός ΤΕΙ εγγράφου | TEI named entities
+##### (16:00-17:30) 4. Οντότητες ονομάτων (πρόσωπα, μέρη, ημερομηνίες) ενός ΤΕΙ εγγράφου | TEI named entities
 
 
 ### Τρίτη 25 Απριλίου 
-##### 5. a.Μεταγραφή, συγγραφικές & εκδοτικές επεμβάσεις και πρωτογενείς πηγές | Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices
+##### (9:00-13:00 - 14:00-15:00) 5. a.Μεταγραφή, συγγραφικές & εκδοτικές επεμβάσεις και πρωτογενείς πηγές | Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices
 
-##### 6. Ένα ηλεκτρονικό έγγραφο-πηγή - πολλαπλές εκδοχές: Μετασχηματίζοντας τα ΤΕΙ έγγραφα | Single source - multiple outputs: Transforming your TEI texts
+##### (15:30-17:30) 6. Ένα ηλεκτρονικό έγγραφο-πηγή - πολλαπλές εκδοχές: Μετασχηματίζοντας τα ΤΕΙ έγγραφα | Single source - multiple outputs: Transforming your TEI texts
 
 ### Τετάρτη 26 Απριλίου 
-##### 7. Δουλεύοντας με ψηφιακές απεικονίσεις ιστορικών τεκμηρίων (facsimiles). Ανάλυση κειμένου & αναγνώριση χειρόγραφων χαρακτήρων | Working with facsimiles: Document analysis & Handwritten Text Recognition
+##### (9:00-13:00) 7. Δουλεύοντας με ψηφιακές απεικονίσεις ιστορικών τεκμηρίων (facsimiles). Ανάλυση κειμένου & αναγνώριση χειρόγραφων χαρακτήρων | Working with facsimiles: Document analysis & Handwritten Text Recognition
 
-##### 8. Στρογγυλή τράπεζα: Πώς σχεδιάζω και δημιουργώ μια ψηφιακή έκδοση κειμενικών τεκμηρίων; | Panel on “How to get a digital scholarly edition off the ground?”
+##### (14:30-17:00) 8. Στρογγυλή τράπεζα: Πώς σχεδιάζω και δημιουργώ μια ψηφιακή έκδοση κειμενικών τεκμηρίων; | Panel on “How to get a digital scholarly edition off the ground?”
 
 
 ### Πέμπτη 27 Απριλίου 
-##### 9.Τι είναι, γιατί και πώς δημιουργώ ένα TEI schema (ODD) | What is, Why and How to make a TEI schema (ODD)
+##### (9:00-10:45) 9.Τι είναι, γιατί και πώς δημιουργώ ένα TEI schema (ODD) | What is, Why and How to make a TEI schema (ODD)
 
-##### 10.Multi-file transform and query: An introduction to eXist, xPath, XQuery
+#####  (11:00-13:00) 10.Multi-file transform and query: An introduction to eXist, xPath, XQuery
 
-##### 11.TEI - eXist clinic
+#####  (14:00-16:00) 11.TEI - eXist clinic
 
-##### 12.Keynote  - Mats Dahlström (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)
+#####  (16:30 - 19:00) 12.Keynote  - Mats Dahlström (Associate professor, Swedish School of Library and Information Science,UC Borås, Sweden)
 
 
 ### Παρασκευή 28 Απριλίου (έως τις 14μμ)
-##### 13.Putting it all together.How to create a digital TEI edition TEI Publisher in eXist-db  
+##### (9:00-10:45) 13.Putting it all together.How to create a digital TEI edition TEI Publisher in eXist-db  
 
-##### 14. Ερωτήσεις - διευκρινήσεις - ιδέες - αξιολόγηση
+##### (11:00-13:30) 14. Ερωτήσεις - διευκρινήσεις - ιδέες - αξιολόγηση
  
 ### Στο σεμινάριο διδάσκουν οι:
 
