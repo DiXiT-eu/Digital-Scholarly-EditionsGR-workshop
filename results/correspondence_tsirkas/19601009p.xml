@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+                <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                        Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+                </publisher>
+                <date when="2017-03-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="CD-rom">
+                    <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                        Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+                    <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                        Αρχείο</publisher>
+                    <date>2004</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#ST"><surname> Παπαϊωάννου
+                    </surname><forename>Μ.Μ.</forename></persName>
+                    <placeName>Αθήνα</placeName>
+                    <date when="1960-10-09"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#MP">
+                        <surname>Τσίρκας</surname><forename>Στρατής </forename></persName>
+                    <placeName>Αλεξάνδρεια </placeName>
+                    <date notBefore="1960-10-09" notAfter="1960-10-11" cert="medium"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+           <opener>
+               <dateline><date when="1960-10-09">9/10/60</date></dateline>
+           
+               <salute> Αγαπητέ μου <persName> <forename>Γιάννη,</forename></persName></salute>
+           
+           </opener>
+         <p>  Αυτή τη στιγμή πάω για το τυπογραφείο της Μπόλαρη για να δώσω χειρόγραφα.</p>
+            <p>Θα γίνει σαν το Νουρεντίν αλλά με διάστιχο για να πιάσει 18 με 19 τυπογραφικά και να κάνει μπούγιο με τον όγκο. Αυτό γίνεται μόνο για το εμπόριο και ειδικά για τ<abbr><expan>ους</expan></abbr> πλασιέ.</p>
+            <p> Το βιβλίο θα κυκλοφορήσει μόνο <abbr><expan>ου</expan></abbr>αλλά για αρκετά θα γίνει κοιν<subst><del>η</del><add>;o</add></subst>ό εξώφυλλο (δηλαδή στο δέσιμο) για να δεθεί μαζί με το Νουρεντίν.</p>
+           <p>Των δεμένων δυο τόμων σ’ αρέσει ο τίτλος η Λέσχη και άλλα <pb/> διηγήματα;</p>
+            <p>  Έχω τη γνώμη <del>Τον τίτλο</del>για τίτλο στο μυθιστόρημα να βάλεις «Η πανσιόν» κι όχι «<subst><del>η</del><add>H</add></subst> Λέσχη». Βέβαια η λέσχη κυριολεχτεί πιο πολύ, αλλά το πανσιόν τραβάει περισσότερο, γαργαλάει… Γράψε γρήγορ<subst><del>ρ</del><add>α</add></subst>.</p>
+           <p>Ο Τάκης άρχισε να κάνει τις 20 λετρίνες για τα 20 κεφάλαια.
+         </p>
+             <closer> <salute>Φιλιά</salute>
+                 <signed>  Μιχάλης</signed>
+           
+          </closer>
+        </body>
+    </text>
+</TEI>
