@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+                <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+            </titleStmt>
+            <publicationStmt>
+                <publisher>
+                    <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                        Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+                </publisher>
+                <date when="2017-03-06"/>
+                <availability>
+                    <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY
+                        3.0</licence>
+                </availability>
+            </publicationStmt>
+            <sourceDesc>
+                <bibl type="CD-rom">
+                    <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                        Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+                    <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                        Αρχείο</publisher>
+                    <date>2004</date>
+                </bibl>
+            </sourceDesc>
+        </fileDesc>
+        <profileDesc>
+            <correspDesc>
+                <correspAction type="sent">
+                    <persName ref="#MP"><surname> Παπαϊωάννου
+                        </surname><forename>Μ.Μ.</forename></persName>
+                    <date when=" 1960-10-21"/>
+                </correspAction>
+                <correspAction type="received">
+                    <persName ref="#ST">
+                        <surname>Τσίρκας</surname><forename> Στρατής</forename></persName>
+                    <placeName>Αλεξάνδρεια</placeName>
+                    <date notBefore="1960-10-21" notAfter="1960-10-25" cert="medium"/>
+                </correspAction>
+            </correspDesc>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="aerogram">
+         <div type="envelope">
+                        <figure type="stamp">
+                            <figDesc><!-- stamp description --></figDesc>
+                            <graphic url=""><!-- stamp facsimile --></graphic>
+                        
+                            <p><!-- stamp text (if any) --></p>
+                        </figure>
+                        <figure type="postmark">
+                            <figDesc><!-- postmark description --></figDesc>
+                            <graphic url=""><!-- postmark facsimile --></graphic>
+                            <p><!-- postmark text (if any) --></p>
+                        </figure>
+                        <ab type="address.recipient">
+                            <address>
+                                <addrLine>B.P. 700- ALEXANDRIE RAU</addrLine>
+                            </address>
+                            <persName><surname>Mr Stratis Tsirkas</surname> </persName>
+                        </ab>
+                        <!-- pb marks 'side boundaries' -->
+                        <pb/>
+                        <ab type="address.sender">
+                            <address>
+                                <addrLine>Λεωφόρος Αλεξάνδρας 132 - Αθήνα GREECE</addrLine>
+                            </address>
+                            <persName><surname>Μ.Μ.Παπαιωάννου</surname></persName>
+                        </ab>
+         </div>
+                <div type="figure">
+                
+                </div>
+                <div type="content">
+                    <opener><dateline>
+                            <placeName>Αθήνα</placeName><date> 21-10-60</date></dateline>
+                        <salute>Αγαπητέ μου<persName>
+                                <forename>Γιάννη</forename></persName></salute></opener>
+                    <p>Σου γράφω από το Σύνταγμα – Σήμερα πήρα το γράμμα σου – Πρέπει να πήρες κι
+                        ένα ακόμα γράμμα μου και να μου χρωστάς μια ακόμα απάντηση.</p>
+                    <p>Ο Τάκης πρόλαβε πολύ καλά το βιβλίο – έγιναν τα πρώτα κλισέ. Το τυπογραφείο
+                        λάθεψε στο σχήμα και τοέφτιαξε μεγαλύτερο από του Νουρεντίν – Τώρα το
+                        γυρίζει από τα 22 τετράγωνα στα 20 – Δε θα γίνει άσπρο με το διάστιχο – θα
+                        είναι καλό. – Για τον γενικό τίτλο του δεμένου αποκλείεται το <bibl><emph
+                            rend="underlined">πεζογραφήματα</emph></bibl> . Ίσως <bibl><title>Η λέσχη και άλλα</title></bibl> ή <bibl><title>Η λέσχη
+                                – Νουρεντίν Μπόμπα και άλλα</title></bibl>. Περιμένω. </p>
+                    <p>Πιστεύω πως με τον εκδότη θα τα χαλάσουμε πια οριστικά. Τους είπα πως σταματώ
+                        να τους πηγαίνω συγγραφείς που βγάζουν τα βιβλία τους με λεφτά τους ή
+                        επικερδώς. Η Νανά ξίνισε τα μούτρα. Άρχισα να γίνομαι σκληρός! </p>
+                    <p> Ο κ.<persName type="nickname"> Γιαδέσιμος <emph rend="underlined">(=γιαλουράκης)</emph></persName> με πήρε από
+                        τρόμο φαίνεται για να με θεωρεί αντίποδα του κ <emph rend="superscript">ου</emph> αντιπροέδρου. Η δήθεν
+                        ειδησούλα για την ανθολογία είναι φανερό πως προέρχεται από τον Αυγέρη.
+                        Πάντως για την ώρα δεν κάνει ό,τι θέλει – Η μελέτη του για την νέα ποίηση
+                        στην «Αυγή» είναι απλώς αριστερίστικη – λυπούμαι για την αστοχασιά του και
+                        την κακία του. Θεοί και δαίμονες ρίχτηκαν απάνω μου. Δε μιλώ. Θάρθει η ώρα
+                        και τότε τα πάντα θα αναποδογυρίσουν. – Η απάντησή μου στον Πορφύρη δε
+                        δημοσιεύτηκε – δεν την συντόμεψα και ησύχασα. </p>
+                    <p>Με γεια το καινούργιο μυθιστόρημα. Κι εγώ θα προτιμούσα τώρα τα παιδικά
+                        χρόνια – και πάλι ξαναγυρίζουμε στα νερά μας. – Είναι καλό το νέο σου βιβλίο
+                        – καλογραμμένο – αλλά θέλει περισσότερο ακόμα να αποχτήσεις ανεξαρτησία και
+                        δικό σου αέρα. –Μυστήριο, ε; Η Μαρία καλά. Στείλε μου το τέλος του δημοτικού
+                        τραγουδιού.  </p>
+                    <closer>
+                        <salute>Άντι– Κωστή φιλιά. 
+                        </salute>
+                        <signed>
+                            <persName>
+                                <forename>Μιχάλης </forename>
+                            </persName>
+                        </signed>
+                    </closer>
+
+                </div>
+            </div>
+
+        </body>
+    </text>
+</TEI>
