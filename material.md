@@ -9,7 +9,7 @@ tagline:
 προπαρασκευαστικό υλικό <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/getting_started.md">1</a>  & <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session07/getting_started.md" >2</a> 
 
 ## ενότητα 1: [Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session01) 
-<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/01.Intro%20DigitalEditions.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise01.pdf">exercise</a> 
+<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/01.IntroDigitalEditions.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise1.Exploringdigitaleditions.pdf">exercise</a> 
 
 ## ενότητα 2: [Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session02)
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session02/02.IntroductionMarkup.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session02/exercise2UsingtheoXygenXMLEditor.pdf">exercise</a> 
