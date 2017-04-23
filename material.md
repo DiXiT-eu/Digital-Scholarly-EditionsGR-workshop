@@ -16,7 +16,6 @@ tagline:
 ## ενότητα 3: [Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία | Introduction to TEI. Basic structure and core elements](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session03)
 
 ## ενότητα 4: [Οντότητες ονομάτων (πρόσωπα, μέρη, ημερομηνίες) ενός ΤΕΙ εγγράφου | TEI named entities](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session04)
-
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session04/04.TEINamedEntities.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session04/exercise4.Namedentities.pdf">exercise</a> 
 
 ## ενότητα 5: [a.Μεταγραφή, συγγραφικές & εκδοτικές επεμβάσεις και πρωτογενείς πηγές | Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session05)
