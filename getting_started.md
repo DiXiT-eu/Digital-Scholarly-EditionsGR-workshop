@@ -8,7 +8,10 @@
 <p>We will mainly use Oxygen XML Editor during the first sessions of the seminar. We have secured a 3-month classroom license for the seminar's participants (license key to be sent via email). WOW!!!</p>
 
 <p>The latest version of Oxygen, v18.1, can be downloaded here:</p>
-https://www.oxygenxml.com/xml_editor/download_oxygenxml_editor.html 
+https://www.oxygenxml.com/xml_editor/software_archive_editor.html 
+
+[actually, the latest latest version 19 has just been released but we are going to use the previous one]
+
 <p>After downloading, double click the oxygen.dmg disk image to mount it.
 
 Drag/Copy the Oxygen XML Editor folder to your /Applications folder (or another location if you wish).
