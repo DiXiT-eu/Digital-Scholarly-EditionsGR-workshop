@@ -10,7 +10,7 @@
 <p>The latest version of Oxygen, v18.1, can be downloaded here:</p>
 https://www.oxygenxml.com/xml_editor/software_archive_editor.html 
 
-[actually, the latest latest version ,  19 , has just been released but we are going to use the previous one ;)]
+[actually, the latest latest version ,  19 , has just been released but we are going to use the previous one :smirk:]
 
 <p>After downloading, double click the oxygen.dmg disk image to mount it.
 
