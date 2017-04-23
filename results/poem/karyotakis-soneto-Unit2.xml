@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<div type="sonnet">
+    <lg type="quatrain">
+        <l>Τα φύλλα κιτρινίσανε και, πέφτοντας στο <rhyme label="a">χώμα</rhyme>,</l>
+        <l> ξεχύνονται σ’ αφάνταστο, σ’ απότρελο <rhyme label="b">χορό</rhyme>.</l>
+        <l> Τα λουλουδάκια κλείσανε το θεϊκό τους <rhyme label="a">στόμα</rhyme></l>
+        <l> και γέρνουν άθελα στη γη, κοπάδι <rhyme label="b">θλιβερό</rhyme>.</l>
+    </lg>
+
+    <lg type="quatrain">
+        <l>Ο ήλιος που άλλοτε, που χθες, προχθές <rhyme label="a">ακόμα</rhyme>,</l>
+        <l> εσκόρπιζε το γέλιο του, ψηλά, το <rhyme label="b">λαμπερό</rhyme>,</l>
+        <l> σκυθρώπασε, και έπνιξε τ’ ολόχρυσό του <rhyme label="a">χρώμα</rhyme></l>
+        <l> στα μολυβένια σύννεφα που πέρα εκεί <rhyme label="b">θωρώ</rhyme>.</l>
+    </lg>
+
+    <lg type="tercet">
+        <l>Η θάλασσα εφούσκωσε κι εθέριεψε το <rhyme label="c">κύμα</rhyme>,</l>
+        <l> στο πεζοδρόμι η βροχή χτυπάει <rhyme label="d">ρυθμικά</rhyme></l>
+        <l> και του διαβάτη βιαστικό ακούγεται το <rhyme label="c">βήμα</rhyme>.</l>
+    </lg>
+
+    <lg type="tercet">
+        <l>Απ’ τη βροχή ετρόμαξαν τ’ αθώα <rhyme label="e">χελιδόνια</rhyme></l>
+        <l> και σαν πετάνε φαίνεται πως λένε <rhyme label="d">μυστικά</rhyme>:</l>
+        <l>
+            <q>«Εμπρός, εμπρός, να φύγουμε, θ’ αρχίσουνε τα <rhyme label="e">χιόνια</rhyme>.</q>
+        </l>
+    </lg>
+</div>
