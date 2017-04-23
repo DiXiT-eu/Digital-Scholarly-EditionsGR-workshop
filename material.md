@@ -12,8 +12,10 @@ tagline:
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/01.Intro%20DigitalEditions.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise01.pdf">exercise</a> 
 
 ## ενότητα 2: [Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session02)
+<a href=" ">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session02/exercise2UsingtheoXygenXMLEditor.pdf">exercise</a> 
 
 ## ενότητα 3: [Μεταγραφή και κωδικοποίηση κειμένου με το πρότυπο ΤΕΙ. Βασική δομή κειμένου και κύρια στοιχεία | Introduction to TEI. Basic structure and core elements](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session03)
+<a href="">slides</a> | <a href="">exercise</a> 
 
 ## ενότητα 4: [Οντότητες ονομάτων (πρόσωπα, μέρη, ημερομηνίες) ενός ΤΕΙ εγγράφου | TEI named entities](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session04)
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session04/04.TEINamedEntities.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session04/exercise4.Namedentities.pdf">exercise</a> 
