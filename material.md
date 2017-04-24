@@ -8,6 +8,9 @@ tagline:
   
 προπαρασκευαστικό υλικό <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/getting_started.md">1</a>  & <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session07/getting_started.md" >2</a> 
 
+## Materials
+Download the folder at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/materials.zip> and **unzip** it.
+
 ## ενότητα 1: [Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session01) 
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/01.IntroDigitalEditions.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise1.Exploringdigitaleditions.pdf">exercise</a> 
 
