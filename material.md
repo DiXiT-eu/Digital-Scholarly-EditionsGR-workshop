@@ -12,7 +12,7 @@ tagline:
 Download the folder at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/materials.zip> and **unzip** it.
 
 ## ενότητα 1: [Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session01) 
-<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/01.IntroDigitalEditions.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise1.Exploringdigitaleditions.pdf">exercise</a> 
+<a href="">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise1.Exploringdigitaleditions.pdf">exercise</a> 
 
 ## ενότητα 2: [Εισαγωγή στην κωδικοποίηση κειμένου και στην XML | Introduction to markup, text encoding and XML](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session02)
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session02/02.IntroductionMarkup.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session02/exercise2UsingtheoXygenXMLEditor.pdf">exercise</a> 
@@ -24,7 +24,7 @@ Download the folder at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session04/04.TEINamedEntities.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session04/exercise4.Namedentities.pdf">exercise</a> 
 
 ## ενότητα 5: [a.Μεταγραφή, συγγραφικές & εκδοτικές επεμβάσεις και πρωτογενείς πηγές | Transcription, authorial interventions and encoding of primary sources - b.Genre, discipline specific or methodological schemas, customizations and best practices](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session05)
-a. <a href="">slides</a> | <a href="">exercise</a>  || b. <a href="">slides</a> | <a href="">exercise</a> 
+a. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/05a.Transcription_primary_sources.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/exercise5a.Transcriptionofprimarysources.pdf">exercise</a> || b. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/05b.Customizations_best%20practices.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/exercise5b.EncodingCorrespondence.pdf">exercise</a> 
 
 ## ενότητα 6: [Ένα ηλεκτρονικό έγγραφο-πηγή - πολλαπλές εκδοχές: Μετασχηματίζοντας τα ΤΕΙ έγγραφα | Single source - multiple outputs: Transforming your TEI texts](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session06)
 
