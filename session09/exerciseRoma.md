@@ -30,13 +30,13 @@ These instructions do not cover some other capabilities of Roma, including addin
 
 In this exercise, we will start from an existing customization and we will edit it. 
 
-- Download the ODD file *tei_dixit.xml* <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/odd/tei_dixit.xml.zip> (download the zip file and extract it; don't use the compressed file!) and save it on your computer.
+- The customization is in your Materials folder > unit9 > ODD > **tei_dixit.odd**
 
 - Now, let's go to Roma: when you are on-line, point your favorite web browser to <http://www.tei-c.org/Roma/>.
 
 - You should get to the Roma start screen, which says something like 'Roma: generating validators for the TEI' at the top. 
 
-- As said, we will edit an existing ODD: check the 'Open existing customization' radio button and upload the file *tei_dixit.xml* (the one you just downloaded)
+- As said, we will edit an existing ODD: check the 'Open existing customization' radio button and upload the file **tei_dixit.xml**
 
 - Click Submit!
 
@@ -151,7 +151,7 @@ For this exercise, we want to prepare a schema for encoding poems, and in partic
 
 That's all! Now you can Save the Customization and generate the Schema, as you did in the previous exercise. 
 
-You can test your schema on the poem you encoded in the very beginning of this workshop (also available at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/xml/poems_txt/karyotakis_soneto.xml.zip> Download the zip version and unzip it before using).
+You can test your schema on the poem you encoded in the very beginning of this workshop (also available at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/results/poem/karyotakis_soneto.xml>).
 
 
 ---
