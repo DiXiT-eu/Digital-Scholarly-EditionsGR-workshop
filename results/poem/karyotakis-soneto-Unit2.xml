@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<div type="sonnet">
-    <lg type="quatrain">
+<div type="verse">
+    <head>Ποιήματα</head>
+    <lg type="sonnet">
+        <head>Σονέτο</head>
+        <lg type="quatrain">
         <l>Τα φύλλα κιτρινίσανε και, πέφτοντας στο <rhyme label="a">χώμα</rhyme>,</l>
         <l> ξεχύνονται σ’ αφάνταστο, σ’ απότρελο <rhyme label="b">χορό</rhyme>.</l>
         <l> Τα λουλουδάκια κλείσανε το θεϊκό τους <rhyme label="a">στόμα</rhyme></l>
@@ -27,5 +30,5 @@
         <l>
             <q>«Εμπρός, εμπρός, να φύγουμε, θ’ αρχίσουνε τα <rhyme label="e">χιόνια</rhyme>.</q>
         </l>
-    </lg>
+    </lg></lg>
 </div>

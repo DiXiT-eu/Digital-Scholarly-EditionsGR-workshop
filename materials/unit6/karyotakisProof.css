@@ -1,0 +1,74 @@
+/*
+ * CSS for Transcription of English translation of Atalanta. Designed mostly for proofreading.
+ * Almost all elements are styled, but often so that they can be proofread.
+ *
+ * HISTORY
+ * EM initial styling 2017-03-31
+ *
+ */
+
+ body {
+     width: 75%;
+     margin-left: 100px;
+     line-height: 175%;
+     font-family: "Garamond", "Georgia", serif;
+ }
+ 
+ h3.verse {
+    font-style: oblique;
+    display: block;
+    }
+    
+    h3.verse:before {
+  content: "––– ";
+  }
+
+  h3.verse:after {
+      content: " –––"
+  }
+    
+    h3.sonnet {
+    display: block;
+    font-style: oblique;
+    }
+    
+    div.sonnet {
+    
+        }
+    
+    div.quatrain, div.tercet {
+        display: block;
+        padding-bottom: 20px;
+    }
+    
+  span.rhyme-a {
+      color: red; 
+  }
+  
+  span.rhyme-b {
+      color: red;
+  }
+  
+  span.rhyme-c {
+      color: red;
+  }
+  
+  span.rhyme-d {
+      color: red;
+  }
+  
+  span.rhyme-e {
+      color: red;
+  }
+  
+  span.q {
+      font-style: oblique;
+  }
+  
+  l {
+      display:block;
+  }
+  
+  
+ 
+ 

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Πιλοτική ψηφιακή έκδοση αλληλογραφίας</title>
+            <editor>Αννα-Μαρία Σιχάνη<email>anna-maria.sichani@huygens.knaw.nl</email></editor>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>
+               <ref target="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/">
+                  Σεμινάριο DiXiT, 24-28 Απριλίου 2017</ref>
+            </publisher>
+            <date when="2017-03-06"/>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by/3.0/">CC-BY 3.0</licence>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl type="CD-rom">
+               <title> Πιλοτικό Πρόγραμμα Ψηφιακής Έκδοσης Αλληλογραφίας: Η Περίπτωση της
+                  Αλληλογραφίας Τσίρκα και Παπαϊωάννου</title>
+               <publisher>Μορφωτικό Ίδρυμα Εθνικής Τραπέζης - Εθνικό Λογοτεχνικό και Ιστορικό
+                  Αρχείο</publisher>
+               <date>2004</date>
+            </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+         <particDesc>
+            <listPerson>
+               <person xml:id="ST">
+                  <persName>
+                     <forename>Στρατής</forename>
+                     <surname>Τσίρκας</surname>
+                  </persName>
+                  <birth when="1911-06-23"><placeName ref="#cairo">Cairo</placeName>, 23 July 1911</birth>
+                  <death when="1980-01-27"><placeName ref="#athens">Athens</placeName>, 27 January 1980</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">64012589</idno>
+               </person>
+               <person xml:id="MP">
+                  <persName>
+                     <forename>Μ.Μ.</forename>
+                     <surname>Παπαϊωάννου</surname>
+                  </persName>
+                  <birth when="1912">1912</birth>
+                  <death when="1955">1955</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">39787655</idno>
+               </person>
+               <person xml:id="GA">
+                  <persName>
+                     <forename>Γλαύκος</forename>
+                     <surname>Αλιθέρσης</surname>
+                  </persName>
+                  <birth when="1897"><placeName ref="#limassol">Limassol</placeName>, 1897</birth>
+                  <death when="1965"><placeName ref="#limassol">Limassol</placeName>, 1965</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">59883002</idno>
+               </person>
+               <person xml:id="TV">
+                  <persName>
+                     <forename>Τάσος</forename>
+                     <surname>Βουρνάς</surname>
+                  </persName>
+                  <birth when="1913">1913</birth>
+                  <death when="1990">1990</death>
+                  <sex value="M">male</sex>
+                  <idno type="VIAF">10104626</idno>
+               </person>
+            </listPerson>
+         </particDesc>
+         <settingDesc>
+            <listPlace>
+               <place xml:id="cairo">
+                  <placeName>Cairo</placeName>
+                  <country>Egypt</country>
+                  <location>
+                     <geo>30.044420, 31.235712</geo>
+                  </location>
+               </place>
+               <place xml:id="athens">
+                  <placeName>Athens</placeName>
+                  <country>Greece</country>
+                  <location>
+                     <geo>37.983810, 23.727539</geo>
+                  </location>
+               </place>
+               <place xml:id="limassol">
+                  <placeName>Limassol</placeName>
+                  <country>Cyprus</country>
+                  <location>
+                     <geo>34.707130, 33.022617</geo>
+                  </location>
+               </place>
+            </listPlace>
+         </settingDesc>
+      </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div type="letter">
+            <opener>
+               <dateline><date when="1955-06-21">21/6/55</date></dateline>
+               <salute>Αγαπητέ μου <persName ref="#ST">Στρατή</persName></salute>
+            </opener>
+            <p>Αν έχω τα <bibl type="book"><title>Γράμματα</title></bibl> θα ετοιμά<lb break="no"></lb>σω μια συλλογή
+               των έργων του <persName><surname>Σκληρού</surname></persName>.<lb/> Υπάρχουν
+               κληρονόμοι;</p>
+            <p>Έγιναν αυτού συζητήσεις γύρω από<lb/> το σοσιαλισμό, όπως εδώ στο «Νουμά»;</p>
+            <p>Για την έκδοση εκλογής από το έργο σου: Στη μελέτη μου που θα τη συνοδεύσει<lb/> μπορώ να
+               μιλήσω άνετα ή η θέση σου εμποδίζει;</p>
+            <p>Ευχαριστώ για τα βιβλία κλπ.<lb/> Θα σου στείλω κ εγώ βιβλία, χρήσιμα ίσως.</p>
+            <p>Ο κ. <persName ref="#GA"><surname>Αλιθέρσης</surname></persName> είχε γράψει ιστορία της
+               λογοτεχνίας. Υπάρχει αντίτυπο;</p>
+            <p>Θα σου ξαναγράψω περισσότερα. <lb/>Ο <persName ref="#TV"><surname>Βουρνάς</surname></persName> είναι
+               ενθουσιασμένος. </p>
+            <closer><signed><persName ref="#MP">Μ.Π.</persName></signed></closer>
+         </div>
+      </body>
+   </text>
+</TEI>
