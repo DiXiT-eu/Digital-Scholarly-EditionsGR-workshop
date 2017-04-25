@@ -17,7 +17,7 @@
 <h3>ενότητα 5β.Βασικά κεφάλαια της ενότητας:</h3>
 <ul>
 <li>σώματα αλληλογραφίας/ Εχουμε τη χαρά να συνομιλήσουμε με τον Ron Van den Branden, από  το <a href="ctb.kantl.be/">Centrum voor Teksteditie en Bronnenstudie - Centre for Scholarly Editing and Document Studies (Gent) </a> , μεταξύ των πρωτεργατών του <a href="http://ctb.kantl.be/project/dalf/dalfdoc/index.html">DALF Guidelines for the Description and Encoding of Modern Correspondence Material.</a></li>
-<li>< a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html"> κριτικό υπόμνημα</a></li>
+<li><a href="http://www.tei-c.org/release/doc/tei-p5-doc/en/html/TC.html"> κριτικό υπόμνημα</a></li>
 <li> ασκήσεις για την μεταγραφή τεκμηρίων αλληλογραφίας </li>
 </ul>
 
