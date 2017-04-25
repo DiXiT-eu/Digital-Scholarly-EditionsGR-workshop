@@ -27,6 +27,8 @@ Download the folder at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR
 a. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/05a.Transcription_primary%20sources.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/exercise5a.Transcriptionofprimarysources.pdf">exercise</a> || b. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/05b.customizations_best%20practices.pdf">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session05/exercise5b.EncodingCorrespondence.pdf">exercise</a> 
 
 ## ενότητα 6: [Ένα ηλεκτρονικό έγγραφο-πηγή - πολλαπλές εκδοχές: Μετασχηματίζοντας τα ΤΕΙ έγγραφα | Single source - multiple outputs: Transforming your TEI texts](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session06)
+<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session06/06.TransformingTEIText.pdf">slides</a>
+
 
 ## ενότητα 7: [Δουλεύοντας με ψηφιακές απεικονίσεις ιστορικών τεκμηρίων (facsimiles). Ανάλυση κειμένου & αναγνώριση χειρόγραφων χαρακτήρων | Working with facsimiles: Document analysis & Handwritten Text Recognition](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session07)
 
