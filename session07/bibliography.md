@@ -15,6 +15,8 @@
 <li>K. Ntzios, B. Gatos, I. Pratikakis, T. Konidaris and S.J. Perantonis, "An Old Greek Handwritten OCR System based on an Efficient Segmentation-free Approach", International Journal on Document Analysis and Recognition (IJDAR), special issue on historical documents, Vol. 9, No. 2-4, pp. 179-192, 2007. <a href="http://users.iit.demokritos.gr/~bgat/IJDAR_Ntzios.pdf">download</a></li>
 
 
+<li>Schofield, P., "tranScriptorium: A Guide for the Humanist", (2014) | An open access version is available from UCL Discovery
+ http://discovery.ucl.ac.uk/1432610/ </li>
 
 </ul>
 
