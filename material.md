@@ -39,7 +39,9 @@ a. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/bl
 ## ενότητα 8: [ Στρογγυλή τράπεζα: Πώς σχεδιάζω και δημιουργώ μια ψηφιακή έκδοση κειμενικών τεκμηρίων; | Panel on “How to get a digital scholarly edition off the ground”](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session08)
 
 ## ενότητα 9: [Τι είναι, γιατί και πώς δημιουργώ ένα TEI schema (ODD) | What is, Why  and How to make a TEI schema (ODD)](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session09)
-<a href="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/TEIcustomizationSlides.html#/">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseClasses.pdf">exercise classes</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseRoma.pdf">exercise Roma</a>
+<a href="https://dixit-eu.github.io/Digital-Scholarly-EditionsGR-workshop/TEIcustomizationSlides.html#/">slides</a> 
+| <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseRoma.pdf">exercise Roma</a><br/>
+<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseClasses.pdf">exercise classes</a> | <a href="https://www.proprofs.com/quiz-school/story.php?title=mtg5mtm2nqnm6r">exercise classes online</a>
 
 ## ενότητα 10: [Multi-file transform and query: An introduction to eXist, xPath, XQuery](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session10)
 
