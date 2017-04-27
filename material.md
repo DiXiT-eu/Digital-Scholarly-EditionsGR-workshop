@@ -44,6 +44,12 @@ a. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/bl
 <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session09/exerciseClasses.pdf">exercise classes</a> | <a href="https://www.proprofs.com/quiz-school/story.php?title=mtg5mtm2nqnm6r">exercise classes online</a>
 
 ## ενότητα 10: [Multi-file transform and query: An introduction to eXist, xPath, XQuery](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session10)
+<br/>
+<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session10/10-eXist.pdf">eXist slides</a> 
+| <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session10/10-XPath.pdf">XPath slides</a> 
+| <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session10/10-XQuery.pdf">XQuery slides</a> 
+| <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session10/10-XPathExercise.pdf">exercise</a> 
+
 
 ## ενότητα 11: [TEI - eXist clinic](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session11)
 
