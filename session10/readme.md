@@ -1,5 +1,4 @@
-<h1><h1>ενότητα 10: Multi-file transform and query: An introduction to eXist, xPath, XQuery</h1>
+#ενότητα 10: An introduction to eXist, xPath, XQuery
 
-Η δέκατη ενότητα περιέχει μια εισαγωγή σν </lb>
- <h3>Βασικά κεφάλαια της ενότητας:</h3>
-<ul>
+[Exercise](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/edit/master/session10/10-XPathExercise.pdf)
+[XPath]()
