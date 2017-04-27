@@ -1,0 +1,59 @@
+<?teipublisher odd="documentation.odd"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Session 10 exercise: eXist and XPath</title>
+            <author>Magdalena Turska</author>
+         </titleStmt>
+         <publicationStmt>
+            <publisher>eXistSolutions GmbH</publisher>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Workshop material for DiXiT Introduction to Digital Editing, Athens 2017</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <div>
+            <head>Exercise 10</head>
+            <list>
+               <item>download final Tsirkas correspondence files (19550621p2.xml, 19560218p.xml)
+                  from <ref
+                     target="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/results/correspondence_tsirkas"
+                     >results folder in GitHub</ref></item>
+               <item>run eXist-db and open Dashboard</item>
+               <item>create new collection called <hi>letters</hi></item>
+               <item>upload Tsirkas correspondence files into <hi>letters</hi> collection</item>
+               <item>open eXide and use a new-document tab to enter your queries</item>
+               <item>list all document titles</item>
+               <item>list all place records</item>
+               <item>list all references to a place with xml:id "athens"</item>
+               <item>list all people born in Cairo</item>
+               <item>list all males</item>
+               <item>list all males born in Cairo</item>
+               <item>list all references to people born in Cairo</item>
+               <item>count all names of places</item>
+               <item>count all references to Athens</item>
+            </list>
+            
+            <div>
+               <head>Tips'n'tricks</head>
+               <list>
+                  <item>don't forget the namespace: you need to declare the namespaces used and use
+                     namespace prefix in XPath expressions</item>
+                  <item>familiarize yourself with the structure of the TEI documents you query, to
+                     know which elements you are looking for and what are the selection criteria for
+                     them</item>
+                  <item>take baby steps and evaluate your XPath expression after each one: first
+                     start with general query and only when you're sure to have expected results,
+                     narrow it down adding predicates or further XPath steps</item>
+                  <item>use <hi>Eval</hi> button to run your query</item>
+                  <item>if you run into trouble with your own eXist instance, you may use <ref target="http://admin.exist-db.org:55555/exist">the workshop server</ref> (please note it will not be available after tomorrow)</item>
+               </list>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
