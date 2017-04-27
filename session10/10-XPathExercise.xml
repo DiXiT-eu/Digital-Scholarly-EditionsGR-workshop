@@ -20,11 +20,11 @@
             <head>Exercise 10</head>
             <list>
                <item>download final Tsirkas correspondence files (19550621p2.xml, 19560218p.xml)
-                  from <ref target="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/results/correspondence_tsirkas">results folder in GitHub</ref>
-                    </item>
+                  from <ref
+                     target="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/results/correspondence_tsirkas"
+                     >results folder in GitHub</ref></item>
                <item>run eXist-db and open Dashboard</item>
-               <item>create new collection called <hi>letters</hi>
-                    </item>
+               <item>create new collection called <hi>letters</hi></item>
                <item>upload Tsirkas correspondence files into <hi>letters</hi> collection</item>
                <item>open eXide and use a new-document tab to enter your queries</item>
                <item>list all document titles</item>
@@ -37,7 +37,7 @@
                <item>count all names of places</item>
                <item>count all references to Athens</item>
             </list>
-
+            
             <div>
                <head>Tips'n'tricks</head>
                <list>
@@ -50,6 +50,7 @@
                      start with general query and only when you're sure to have expected results,
                      narrow it down adding predicates or further XPath steps</item>
                   <item>use <hi>Eval</hi> button to run your query</item>
+                  <item>if you run into trouble with your own eXist instance, you may use <ref target="http://admin.exist-db.org:55555/exist">the workshop server</ref> (please note it will not be available after tomorrow)</item>
                </list>
             </div>
          </div>
