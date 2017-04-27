@@ -11,6 +11,9 @@ tagline:
 ## Materials
 Download the folder at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/materials.zip> and **unzip** it.
 
+## Results
+Download the folder at <https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/results.zip> and **unzip** it.
+
 ## ενότητα 1: [Θεωρία, ιστορία, παραδείγματα και χρήσεις των ψηφιακών εκδόσεων | Theory, history, examples of digital scholarly editing](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session01) 
 <a href="">slides</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session01/exercise1.Exploringdigitaleditions.pdf">exercise</a> 
 
