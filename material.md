@@ -35,8 +35,7 @@ a. <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/bl
 
 
 ## ενότητα 7: [Δουλεύοντας με ψηφιακές απεικονίσεις ιστορικών τεκμηρίων (facsimiles). Ανάλυση κειμένου & αναγνώριση χειρόγραφων χαρακτήρων | Working with facsimiles: Document analysis & Handwritten Text Recognition](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session07)
-<a href=" ">slides</a> | <a href=" ">exercise</a>
-
+<a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session07/01_BasicDIP.pdf">Document Image Processing</a> | <a href="https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/blob/master/session07/02_Transkribus.pdf">Transkribus</a>
 
 
 ## ενότητα 8: [ Στρογγυλή τράπεζα: Πώς σχεδιάζω και δημιουργώ μια ψηφιακή έκδοση κειμενικών τεκμηρίων; | Panel on “How to get a digital scholarly edition off the ground”](https://github.com/DiXiT-eu/Digital-Scholarly-EditionsGR-workshop/tree/master/session08)
